@@ -1,6 +1,6 @@
 # Primeira_Instancia_BancoDados_Azure
 ## Criação inicial de uma instância de banco de dados na Solução de Nuvem Azure.
-## Verifique a pasta imagens para prints do procedimento.
+## Verifique a pasta imagens/BD para prints do procedimento.
 ### Despesa de capital - Capex
 -modelo de consulta de tipos de nuvem
 -gasto inicial de dinheiro em infraestrutura física
